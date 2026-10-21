@@ -56,7 +56,7 @@ A small test window should open.
 No packages need to be installed. Download or clone the project:
 
 ```bash
-git clone https://github.com/faisal-habib/turtle-crossing-game.git
+git clone https://github.com/faisal-habib/turtle-crossing-game-python.git
 cd turtle-crossing-game
 ```
 
